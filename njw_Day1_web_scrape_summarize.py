@@ -420,6 +420,5 @@ def main():
         else:
             print(f"{RED}Invalid choice. Please try again.{RESET}")
 
-
 if __name__ == '__main__':
     main()

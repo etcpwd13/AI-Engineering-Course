@@ -14,8 +14,6 @@ from datetime import datetime
 # Setup logging
 logging.basicConfig(level=logging.INFO)
 
-# Test Comment
-
 # ANSI color codes
 RED = "\033[1;31m"
 GREEN = "\033[1;32m"
